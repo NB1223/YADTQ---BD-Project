@@ -1,1 +1,1 @@
-# RR-Team-18-yadtq-yet-another-distributed-task-queue-
+# Yet Another Distributed Task Queue
